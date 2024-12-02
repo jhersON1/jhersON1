@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jherson Rodriguez</h1>
 <h3 align="center">Full Stack Web developer living in Bolivia!</h3>
 
-- 🌱 I’m currently learning **Angular 17, NestJs**
+- 🌱 I’m currently learning **Angular, NestJs**
 
 - 📫 How to reach me **jhersonrodriguez2@gmail.com**
 
