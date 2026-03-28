@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **rodriguezpaul98@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://jherson.tech](https://jherson.dev)**
+- 👨‍💻 All of my projects are available at **[https://jherson.dev](https://jherson.dev)**
 
-- 📝 I regularly write articles on **[https://jherson.tech](https://jherson.dev)**
+- 📝 I regularly write articles on **[https://jherson.dev](https://jherson.dev)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1YMFFBecxBlw-mAzIhJxDsyJrFACJ9-Ut/view?usp=sharing](https://drive.google.com/file/d/1YMFFBecxBlw-mAzIhJxDsyJrFACJ9-Ut/view?usp=sharing)**
 
